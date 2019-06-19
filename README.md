@@ -1,5 +1,4 @@
-# CS246_A6
-Repository for CS246 - Assignment 5.
+Repository for Game Quadris by Bolin Li
 
-Game: Quadris
+Description: Implemented in C++, Quadris is very similar to Tetris, except it is not real-time, and is controlled via text commands.
 
