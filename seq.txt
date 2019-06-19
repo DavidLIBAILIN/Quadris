@@ -1,0 +1,7 @@
+drop
+10rig
+drop
+clockwise
+L
+S
+Z
